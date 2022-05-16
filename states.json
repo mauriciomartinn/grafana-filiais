@@ -226,5 +226,11 @@
     "name" : "PUC",
     "latitude" : -30.0584,
     "longitude" : -51.1738
+  },
+  {
+    "key" : "Cachoeira do Sul",
+    "name" : "Cachoeira do Sul",
+    "latitude" : -30.0325,
+    "longitude" : -52.8944
   }
 ]
