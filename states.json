@@ -37,193 +37,193 @@
   },
   {
     "key" : "Alegrete",
-    "name" : "RS",
+    "name" : "Alegrete",
     "latitude" : -29.7869,
     "longitude" : -55.7884
   },
   {
     "key" : "Bagé",
-    "name" : "RS",
+    "name" : "Bagé",
     "latitude" : -31.2961,
     "longitude" : -54.1288
   },
   {
     "key" : "Bento Goncalves",
-    "name" : "RS",
+    "name" : "Bento Goncalves",
     "latitude" : -29.1485,
     "longitude" : -51.5131
   },
   {
     "key" : "Cachoeirinha",
-    "name" : "RS",
+    "name" : "Cachoeirinha",
     "latitude" : -29.8998,
     "longitude" : -51.0913
   },
   {
     "key" : "Camaqua",
-    "name" : "RS",
+    "name" : "Camaqua",
     "latitude" : -30.8542,
     "longitude" : -51.8055
   },
   {
     "key" : "Carazinho",
-    "name" : "RS",
+    "name" : "Carazinho",
     "latitude" : -28.2937,
     "longitude" : -52.7929
   },
   {
     "key" : "Charqueadas",
-    "name" : "RS",
+    "name" : "Charqueadas",
     "latitude" : -29.9610,
     "longitude" : -51.6320
   },
   {
     "key" : "Erechim",
-    "name" : "RS",
+    "name" : "Erechim",
     "latitude" : -27.6439,
     "longitude" : -52.2744
   },
   {
     "key" : "Frederico Westphalen",
-    "name" : "RS",
+    "name" : "Frederico Westphalen",
     "latitude" : -27.3572,
     "longitude" : -53.3993
   },
   {
     "key" : "Gramado",
-    "name" : "RS",
+    "name" : "Gramado",
     "latitude" : -27.3571,
     "longitude" : -53.3999
   },
   {
     "key" : "Gravatai",
-    "name" : "RS",
+    "name" : "Gravatai",
     "latitude" : -29.9025,
     "longitude" : -51.0115
   },
   {
     "key" : "GuaIba",
-    "name" : "RS",
+    "name" : "GuaIba",
     "latitude" : -30.1248,
     "longitude" : -51.3471
   },
   {
     "key" : "Ijui",
-    "name" : "RS",
+    "name" : "Ijui",
     "latitude" : -28.3864,
     "longitude" : -53.9226
   },
   {
     "key" : "Marau",
-    "name" : "RS",
+    "name" : "Marau",
     "latitude" : -28.4459,
     "longitude" : -52.2007
   },
   {
     "key" : "Montenegro",
-    "name" : "RS",
+    "name" : "Montenegro",
     "latitude" : -29.6911,
     "longitude" : -51.4737
   },
   {
     "key" : "Nova Prata",
-    "name" : "RS",
+    "name" : "Nova Prata",
     "latitude" : -28.7806,
     "longitude" : -51.6087
   },
   {
     "key" : "Osorio",
-    "name" : "RS",
+    "name" : "Osorio",
     "latitude" : -29.8905,
     "longitude" : -50.2621
   },
   {
     "key" : "Rio Grande",
-    "name" : "RS",
+    "name" : "Rio Grande",
     "latitude" : -32.2242,
     "longitude" : -52.2477
   },
   {
     "key" : "Santa Rosa",
-    "name" : "RS",
+    "name" : "Santa Rosa",
     "latitude" : -27.8679,
     "longitude" : -54.4637
   },
   {
     "key" : "Santiago",
-    "name" : "RS",
+    "name" : "Santiago",
     "latitude" : -29.1931,
     "longitude" : -54.8672
   },
   {
     "key" : "Uruguaiana",
-    "name" : "RS",
+    "name" : "Uruguaiana",
     "latitude" : -29.7541,
     "longitude" : -57.0879
   },
   {
     "key" : "Venâncio Aires",
-    "name" : "RS",
+    "name" : "Venâncio Aires",
     "latitude" : -29.6197,
     "longitude" : -52.2006
   },
   {
     "key" : "Novo Hamburgo",
-    "name" : "RS",
+    "name" : "Novo Hamburgo",
     "latitude" : -29.6874,
     "longitude" : -51.1230
   },
   {
     "key" : "Passo Fundo",
-    "name" : "RS",
+    "name" : "Passo Fundo",
     "latitude" : -28.2528,
     "longitude" : -52.4056
   },
   {
     "key" : "Pelotas",
-    "name" : "RS",
+    "name" : "Pelotas",
     "latitude" : -31.7566,
     "longitude" : -52.3432
   },
   {
     "key" : "Porto Alegre - VPN",
-    "name" : "RS",
+    "name" : "Porto Alegre - VPN",
     "latitude" : -30.0197,
     "longitude" : -51.1705
   },
   {
     "key" : "Santa Maria",
-    "name" : "RS",
+    "name" : "Santa Maria",
     "latitude" : -29.6949,
     "longitude" : -53.8164
   },
   {
     "key" : "Santo Angelo",
-    "name" : "RS",
+    "name" : "Santo Angelo",
     "latitude" : -28.2942,
     "longitude" : -54.2628
   },
   {
     "key" : "São Leopoldo",
-    "name" : "RS",
+    "name" : "São Leopoldo",
     "latitude" : -29.7534,
     "longitude" : -51.1592
   },
   {
     "key" : "Canoas",
-    "name" : "RS",
+    "name" : "Canoas",
     "latitude" : -29.8989,
     "longitude" : -51.1808
   },
   {
     "key" : "Taquara",
-    "name" : "RS",
+    "name" : "Taquara",
     "latitude" : -29.6545,
     "longitude" : -50.7812
   },
   {
     "key" : "PUC",
-    "name" : "RS",
+    "name" : "PUC",
     "latitude" : -30.0584,
     "longitude" : -51.1738
   }
