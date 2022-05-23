@@ -138,7 +138,7 @@
     "longitude" : -50.2621
   },
   {
-    "key" : "Rio Grande",
+    "key" : "R",
     "name" : "Rio Grande",
     "latitude" : -32.2242,
     "longitude" : -52.2477
@@ -222,7 +222,7 @@
     "longitude" : -50.7812
   },
   {
-    "key" : "PUC",
+    "key" : "P",
     "name" : "PUC",
     "latitude" : -30.0584,
     "longitude" : -51.1738
